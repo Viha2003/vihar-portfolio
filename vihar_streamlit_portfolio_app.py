@@ -82,7 +82,7 @@ if choice == "About":
     st.header("👨‍🎓 About Me")
     st.write(
         """
-        I'm pursuing an **Integrated M.Tech at VIT Chennai** with a **CGPA of 8.84/10**.
+        I'm pursuing an **Integrated M.Tech at VIT Chennai** with a **CGPA of 8.50/10**.
         I've completed **50+ courses and certifications** across AI, ML, and Business Analytics (Coursera, Great Learning)
         and cleared **TCS NQT** with a **score of 2271.46/3000 (75.72%)**.
 
